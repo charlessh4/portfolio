@@ -101,8 +101,9 @@ export default function Home() {
             <p className="text-gray-300">
               I am a passionate computer engineering student currently on my fourth year at Northeastern University pursuing a Bachelors and Masters of Science in the field. 
               My experience mostly takes place with lower level programming in embedded design and processor design as my upper level courses have tailored towards those topics.
-              My relevant courses include Operating Systems, Computer Architecture, and Computer System which have bolstered my skills in lower level software design and understanding 
-              how all parts of a computer work. Also, I am the current President of Club Baseball at Northeastern; my responsibilities include booking all travel accomodations, fields, umpires, and handling the club budget.
+              My relevant courses include Operating Systems, Computer Architecture, and Computer System, which have bolstered my skills in lower level software design and understanding 
+              how all parts of a computer work. Additionally, I am the President of Club Baseball at Northeastern; my responsibilities include managing all team activities, including line-up,
+              player communications, travel accomodations, fields, umpires, and budget.
             </p>
           </motion.div>
         </div>
