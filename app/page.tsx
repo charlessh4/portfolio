@@ -204,7 +204,7 @@ export default function Home() {
       {/* Contact Section */}
       <section id="contact" className="py-20 bg-gray-900 text-center">
         <h2 className="text-3xl font-bold mb-6">Contact Me</h2>
-        <p className="text-gray-300">Feel free to reach out if you have any questions!</p>
+        <p className="text-gray-300">Feel free to reach out if you have any questions at charles.sh@northeastern.edu!</p>
         <div className="flex justify-center mt-6">
           <a href="mailto:charles.sh@northeastern.edu">
             <motion.button
