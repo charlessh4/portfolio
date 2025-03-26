@@ -103,7 +103,7 @@ export default function Home() {
               My experience mostly takes place with lower level programming in embedded design and processor design as my upper level courses have tailored towards those topics.
               My relevant courses include Operating Systems, Computer Architecture, and Computer System, which have bolstered my skills in lower level software design and understanding 
               how all parts of a computer work. Additionally, I am the President of Club Baseball at Northeastern; my responsibilities include managing all team activities, including line-up,
-              player communications, travel accomodations, fields, umpires, and budget.
+              player communications, travel accommodations, fields, umpires, and budget.
             </p>
           </motion.div>
         </div>
